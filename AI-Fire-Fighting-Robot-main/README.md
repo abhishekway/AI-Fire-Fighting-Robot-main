@@ -140,18 +140,13 @@ Copy the YOLO model into
 
 ```
 raspberry_pi/models/
-```
-
----
 
 ## ▶ Run
 
 ```bash
 cd raspberry_pi
 python main.py
-```
 
----
 
 ## 📊 Results
 
@@ -176,9 +171,6 @@ python main.py
 ## 👨‍💻 Team Members
 
 - Shivam Kumar
-- Team Members
-
----
 
 ## 📚 References
 
